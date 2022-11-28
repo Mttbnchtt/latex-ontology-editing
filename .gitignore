@@ -1,0 +1,15 @@
+# exclude the following
+**/bin/*
+
+.DS_Store
+**/.DS_Store
+
+**/input/*
+**/output/*
+
+*/__pycache__
+
+**/test/*
+
+# exceptions
+!*/README.md
